@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/trinding-movies/static/css/main.06c17c26.css",
-    "main.js": "/trinding-movies/static/js/main.8accc590.js",
-    "static/media/fa-solid-900.ttf": "/trinding-movies/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
-    "static/media/fa-brands-400.ttf": "/trinding-movies/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
-    "static/media/fa-solid-900.woff2": "/trinding-movies/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
-    "static/media/fa-brands-400.woff2": "/trinding-movies/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
-    "static/media/fa-regular-400.ttf": "/trinding-movies/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
-    "static/media/fa-regular-400.woff2": "/trinding-movies/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
-    "static/media/fa-v4compatibility.ttf": "/trinding-movies/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
-    "static/media/fa-v4compatibility.woff2": "/trinding-movies/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
-    "index.html": "/trinding-movies/index.html",
-    "main.06c17c26.css.map": "/trinding-movies/static/css/main.06c17c26.css.map",
-    "main.8accc590.js.map": "/trinding-movies/static/js/main.8accc590.js.map"
+    "main.css": "/crud-React/static/css/main.9c1c69fa.css",
+    "main.js": "/crud-React/static/js/main.8accc590.js",
+    "static/media/fa-solid-900.ttf": "/crud-React/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/crud-React/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/crud-React/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/crud-React/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/crud-React/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/fa-regular-400.woff2": "/crud-React/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/fa-v4compatibility.ttf": "/crud-React/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/crud-React/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/crud-React/index.html",
+    "main.9c1c69fa.css.map": "/crud-React/static/css/main.9c1c69fa.css.map",
+    "main.8accc590.js.map": "/crud-React/static/js/main.8accc590.js.map"
   },
   "entrypoints": [
-    "static/css/main.06c17c26.css",
+    "static/css/main.9c1c69fa.css",
     "static/js/main.8accc590.js"
   ]
 }
